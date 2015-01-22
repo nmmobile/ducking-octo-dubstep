@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id=“com.ducking.octo”
+    id="com.ducking.octo.custom"
     version="2.7.2">
 
     <name>testing-nr</name>
     
-    <description></description>
+    <description>Test</description>
     
     <license>Apache 2.0</license>
     
